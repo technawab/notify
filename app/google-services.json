@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "100054392550",
+    "firebase_url": "https://notify-f9ec9.firebaseio.com",
+    "project_id": "notify-f9ec9",
+    "storage_bucket": "notify-f9ec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100054392550:android:2176b6b2ef42ad47",
+        "android_client_info": {
+          "package_name": "com.technawabs.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100054392550-3cu1509fr1lip2ehq723jc6j7vsen36j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technawabs.notify",
+            "certificate_hash": "de1e3116a11a3bfcab5d83c59209506793716ef7"
+          }
+        },
+        {
+          "client_id": "100054392550-qborv6m1kmnou2tk17cpv3jdbbvi8547.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "100054392550-73i4g3qpin3hh98t5tc37bo1lpm2mvs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technawabs.notify",
+            "certificate_hash": "67ab88e063dc4c2c0a9c8c2b13b0af5f23d86993"
+          }
+        },
+        {
+          "client_id": "100054392550-tpcr6jidsm1lema3pus0ega1cecqh4b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrJgcdSIkShdhWIqo3A1KwhwoBOM4N_ko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-93991733-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100054392550-qborv6m1kmnou2tk17cpv3jdbbvi8547.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
